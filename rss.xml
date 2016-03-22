@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NSPY]]></title>
         <description><![CDATA[NSPY]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nspy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 15:14:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 15:15:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nspy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>NSPY x SXSW</p>]]></description>
-            <link>undefined1edd1632-81a6-481c-9769-a58950666277/index.html</link>
+            <link>https://thegrid.ai/nspy/1edd1632-81a6-481c-9769-a58950666277/index.html</link>
             <guid isPermaLink="false">1edd1632-81a6-481c-9769-a58950666277</guid>
-            <pubDate>Tue, 22 Mar 2016 15:14:41 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 15:14:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
